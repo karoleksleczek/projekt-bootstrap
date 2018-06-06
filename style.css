@@ -1,0 +1,41 @@
+body
+{
+  padding-top: 50px;
+}
+
+.content
+{
+  height: 700px;
+  background: #388390;
+} 
+
+.adds
+{
+  height: 700px;
+  background: green;
+}
+
+.add1
+{
+  height: 200px;
+  background: greenyellow;
+  margin-top: 25px;
+}
+.add2
+{
+  height: 200px;
+  background: goldenrod;
+  margin-top: 25px;
+}
+.add3
+{
+  height: 200px;
+  background: salmon;
+  margin-top: 25px;
+}
+
+.image
+{
+  height: 700px;
+  background: blue;
+}
